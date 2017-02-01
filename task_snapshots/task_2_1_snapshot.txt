@@ -1,0 +1,1268 @@
+HTTP/1.1 200 OK
+
+x-frame-options:
+    SAMEORIGIN
+x-rate-limit-remaining:
+    179
+last-modified:
+    Tue, 05 Apr 2016 10:24:51 GMT
+status:
+    200 OK
+Content-Length:
+    6123
+x-response-time:
+    41
+Connection:
+    keep-alive
+x-transaction:
+    2c6681575fa47e69
+Server:
+    tsa_b
+pragma:
+    no-cache
+cache-control:
+    no-cache, no-store, must-revalidate, pre-check=0, post-check=0
+x-connection-hash:
+    768dd8b36e592acca1dc1b33e70e232d
+x-xss-protection:
+    1; mode=block
+x-content-type-options:
+    nosniff
+x-rate-limit-limit:
+    180
+expires:
+    Tue, 31 Mar 1981 05:00:00 GMT
+Date:
+    Tue, 05 Apr 2016 10:24:51 GMT
+set-cookie:
+    lang=es; Path=/
+set-cookie:
+    guest_id=v1%3A145985189112779112; Domain=.twitter.com; Path=/; Expires=Thu, 05-Apr-2018 10:24:51 UTC
+x-rate-limit-reset:
+    1459852791
+content-disposition:
+    attachment; filename=json.json
+x-twitter-response-tags:
+    BouncerCompliant
+strict-transport-security:
+    max-age=631138519
+x-access-level:
+    read-write-directmessages
+Content-Type:
+    application/json;charset=utf-8
+
+
+[
+  {
+    "id": 246248425,
+    "id_str": "246248425",
+    "name": "Jordi Casanovas",
+    "screen_name": "totecasanovas",
+    "location": "Mataró",
+    "description": "Estudio Enginyeria Informàtica a la UPC, treballo al inLab FIB y dirigeixo l' @athleticmataro a 4a Catalana.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 261,
+    "friends_count": 540,
+    "listed_count": 3,
+    "created_at": "Wed Feb 02 12:49:27 +0000 2011",
+    "favourites_count": 370,
+    "utc_offset": 7200,
+    "time_zone": "Madrid",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 650,
+    "lang": "es",
+    "status": {
+      "created_at": "Wed Mar 30 16:19:15 +0000 2016",
+      "id": 715211798266449900,
+      "id_str": "715211798266449924",
+      "text": "RT @xataka: Sí, es real, Bash en Windows 10 https://t.co/jRBenfFYtg #Build2016 https://t.co/3fbbRyi3nd",
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Build2016",
+            "indices": [
+              68,
+              78
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "xataka",
+            "name": "xataka",
+            "id": 18200400,
+            "id_str": "18200400",
+            "indices": [
+              3,
+              10
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/jRBenfFYtg",
+            "expanded_url": "http://www.xataka.com/event/build-2016",
+            "display_url": "xataka.com/event/build-20…",
+            "indices": [
+              44,
+              67
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 715211503553658900,
+            "id_str": "715211503553658880",
+            "indices": [
+              79,
+              102
+            ],
+            "media_url": "http://pbs.twimg.com/media/CezxEriWwAA2BzH.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CezxEriWwAA2BzH.jpg",
+            "url": "https://t.co/3fbbRyi3nd",
+            "display_url": "pic.twitter.com/3fbbRyi3nd",
+            "expanded_url": "http://twitter.com/xataka/status/715211504656719873/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1024,
+                "h": 576,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 191,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 338,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            },
+            "source_status_id": 715211504656719900,
+            "source_status_id_str": "715211504656719873",
+            "source_user_id": 18200400,
+            "source_user_id_str": "18200400"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 715211503553658900,
+            "id_str": "715211503553658880",
+            "indices": [
+              79,
+              102
+            ],
+            "media_url": "http://pbs.twimg.com/media/CezxEriWwAA2BzH.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CezxEriWwAA2BzH.jpg",
+            "url": "https://t.co/3fbbRyi3nd",
+            "display_url": "pic.twitter.com/3fbbRyi3nd",
+            "expanded_url": "http://twitter.com/xataka/status/715211504656719873/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1024,
+                "h": 576,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 191,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 338,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            },
+            "source_status_id": 715211504656719900,
+            "source_status_id_str": "715211504656719873",
+            "source_user_id": 18200400,
+            "source_user_id_str": "18200400"
+          }
+        ]
+      },
+      "truncated": false,
+      "source": "<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Mar 30 16:18:05 +0000 2016",
+        "id": 715211504656719900,
+        "id_str": "715211504656719873",
+        "text": "Sí, es real, Bash en Windows 10 https://t.co/jRBenfFYtg #Build2016 https://t.co/3fbbRyi3nd",
+        "entities": {
+          "hashtags": [
+            {
+              "text": "Build2016",
+              "indices": [
+                56,
+                66
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/jRBenfFYtg",
+              "expanded_url": "http://www.xataka.com/event/build-2016",
+              "display_url": "xataka.com/event/build-20…",
+              "indices": [
+                32,
+                55
+              ]
+            }
+          ],
+          "media": [
+            {
+              "id": 715211503553658900,
+              "id_str": "715211503553658880",
+              "indices": [
+                67,
+                90
+              ],
+              "media_url": "http://pbs.twimg.com/media/CezxEriWwAA2BzH.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/CezxEriWwAA2BzH.jpg",
+              "url": "https://t.co/3fbbRyi3nd",
+              "display_url": "pic.twitter.com/3fbbRyi3nd",
+              "expanded_url": "http://twitter.com/xataka/status/715211504656719873/photo/1",
+              "type": "photo",
+              "sizes": {
+                "large": {
+                  "w": 1024,
+                  "h": 576,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 340,
+                  "h": 191,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 600,
+                  "h": 338,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 715211503553658900,
+              "id_str": "715211503553658880",
+              "indices": [
+                67,
+                90
+              ],
+              "media_url": "http://pbs.twimg.com/media/CezxEriWwAA2BzH.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/CezxEriWwAA2BzH.jpg",
+              "url": "https://t.co/3fbbRyi3nd",
+              "display_url": "pic.twitter.com/3fbbRyi3nd",
+              "expanded_url": "http://twitter.com/xataka/status/715211504656719873/photo/1",
+              "type": "photo",
+              "sizes": {
+                "large": {
+                  "w": 1024,
+                  "h": 576,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 340,
+                  "h": 191,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 600,
+                  "h": 338,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                }
+              }
+            }
+          ]
+        },
+        "truncated": false,
+        "source": "<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 110,
+        "favorite_count": 55,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+      },
+      "is_quote_status": false,
+      "retweet_count": 110,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "es"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "1A1B1F",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/589041098640781312/8TDtRGxq_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/589041098640781312/8TDtRGxq_normal.jpg",
+    "profile_link_color": "797979",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "252429",
+    "profile_text_color": "666666",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  }
+]
+
+
+HTTP/1.1 200 OK
+
+x-frame-options:
+    SAMEORIGIN
+x-rate-limit-remaining:
+    178
+last-modified:
+    Tue, 05 Apr 2016 10:25:52 GMT
+status:
+    200 OK
+Content-Length:
+    3979
+x-response-time:
+    48
+Connection:
+    keep-alive
+x-transaction:
+    2fed54895303692d
+Server:
+    tsa_b
+pragma:
+    no-cache
+cache-control:
+    no-cache, no-store, must-revalidate, pre-check=0, post-check=0
+x-connection-hash:
+    0852d5af307f8b9161f19975091bb276
+x-xss-protection:
+    1; mode=block
+x-content-type-options:
+    nosniff
+x-rate-limit-limit:
+    180
+expires:
+    Tue, 31 Mar 1981 05:00:00 GMT
+Date:
+    Tue, 05 Apr 2016 10:25:52 GMT
+set-cookie:
+    lang=es; Path=/
+set-cookie:
+    guest_id=v1%3A145985195241811190; Domain=.twitter.com; Path=/; Expires=Thu, 05-Apr-2018 10:25:52 UTC
+x-rate-limit-reset:
+    1459852791
+content-disposition:
+    attachment; filename=json.json
+x-twitter-response-tags:
+    BouncerCompliant
+strict-transport-security:
+    max-age=631138519
+x-access-level:
+    read-write-directmessages
+Content-Type:
+    application/json;charset=utf-8
+
+
+[
+  {
+    "id": 858646280,
+    "id_str": "858646280",
+    "name": "Political Line",
+    "screen_name": "PoliticalLine",
+    "location": "Washington, DC ",
+    "description": "Data Analysis: Political Prediction Markets, Politics, Nonprofits, Markets, Baseball. Political commentary. RTs are not endorsements. All tweets are my opinion.",
+    "url": "https://t.co/Aw8IO92DPW",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/Aw8IO92DPW",
+            "expanded_url": "http://thepoliticallineblog.tumblr.com/",
+            "display_url": "thepoliticallineblog.tumblr.com",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 91683,
+    "friends_count": 47641,
+    "listed_count": 1800,
+    "created_at": "Tue Oct 02 20:15:04 +0000 2012",
+    "favourites_count": 1996,
+    "utc_offset": -10800,
+    "time_zone": "Atlantic Time (Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 58174,
+    "lang": "en",
+    "status": {
+      "created_at": "Tue Apr 05 03:24:29 +0000 2016",
+      "id": 717191150537482200,
+      "id_str": "717191150537482240",
+      "text": "Alcoholrelated driving deaths by county... hmmm the upper Midwest https://t.co/kLw4ABROiz https://t.co/CMWbbkzekw",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/kLw4ABROiz",
+            "expanded_url": "http://datausa.io/map/?level=county&key=alcoholimpaired_driving_deaths",
+            "display_url": "datausa.io/map/?level=cou…",
+            "indices": [
+              66,
+              89
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 717191149052674000,
+            "id_str": "717191149052674048",
+            "indices": [
+              90,
+              113
+            ],
+            "media_url": "http://pbs.twimg.com/media/CfP5jNtWwAAJUXD.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CfP5jNtWwAAJUXD.jpg",
+            "url": "https://t.co/CMWbbkzekw",
+            "display_url": "pic.twitter.com/CMWbbkzekw",
+            "expanded_url": "http://twitter.com/PoliticalLine/status/717191150537482240/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1024,
+                "h": 479,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 159,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 281,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 717191149052674000,
+            "id_str": "717191149052674048",
+            "indices": [
+              90,
+              113
+            ],
+            "media_url": "http://pbs.twimg.com/media/CfP5jNtWwAAJUXD.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CfP5jNtWwAAJUXD.jpg",
+            "url": "https://t.co/CMWbbkzekw",
+            "display_url": "pic.twitter.com/CMWbbkzekw",
+            "expanded_url": "http://twitter.com/PoliticalLine/status/717191150537482240/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1024,
+                "h": 479,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 159,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 281,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "truncated": false,
+      "source": "<a href="https://about.twitter.com/products/tweetdeck" rel="nofollow">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/614520276747972608/8NJDKA9U_normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/614520276747972608/8NJDKA9U_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/858646280/1435348035",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  }
+]
+
+
+HTTP/1.1 200 OK
+
+x-frame-options:
+    SAMEORIGIN
+x-rate-limit-remaining:
+    177
+last-modified:
+    Tue, 05 Apr 2016 10:26:47 GMT
+status:
+    200 OK
+Content-Length:
+    3615
+x-response-time:
+    33
+Connection:
+    keep-alive
+x-transaction:
+    08bdc4f4e3b780f9
+Server:
+    tsa_b
+pragma:
+    no-cache
+cache-control:
+    no-cache, no-store, must-revalidate, pre-check=0, post-check=0
+x-connection-hash:
+    588c75346c49571bcac8dca1cd29131a
+x-xss-protection:
+    1; mode=block
+x-content-type-options:
+    nosniff
+x-rate-limit-limit:
+    180
+expires:
+    Tue, 31 Mar 1981 05:00:00 GMT
+Date:
+    Tue, 05 Apr 2016 10:26:47 GMT
+set-cookie:
+    lang=es; Path=/
+set-cookie:
+    guest_id=v1%3A145985200732899950; Domain=.twitter.com; Path=/; Expires=Thu, 05-Apr-2018 10:26:47 UTC
+x-rate-limit-reset:
+    1459852791
+content-disposition:
+    attachment; filename=json.json
+x-twitter-response-tags:
+    BouncerCompliant
+strict-transport-security:
+    max-age=631138519
+x-access-level:
+    read-write-directmessages
+Content-Type:
+    application/json;charset=utf-8
+
+
+[
+  {
+    "id": 123181087,
+    "id_str": "123181087",
+    "name": "UPC Libraries",
+    "screen_name": "bibliotecnica",
+    "location": "Barcelona",
+    "description": "Biblioteques de la UPC UPC-BARCELONA TECH / The UPC-BARCELONA TECH digital library",
+    "url": "http://t.co/xYNnBuUgfL",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/xYNnBuUgfL",
+            "expanded_url": "http://bibliotecnica.upc.edu",
+            "display_url": "bibliotecnica.upc.edu",
+            "indices": [
+              0,
+              22
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 1019,
+    "friends_count": 486,
+    "listed_count": 94,
+    "created_at": "Mon Mar 15 07:47:27 +0000 2010",
+    "favourites_count": 0,
+    "utc_offset": 7200,
+    "time_zone": "Madrid",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 2712,
+    "lang": "es",
+    "status": {
+      "created_at": "Tue Apr 05 09:50:16 +0000 2016",
+      "id": 717288236331171800,
+      "id_str": "717288236331171841",
+      "text": "Les xarxes socials de les biblioteques UPC https://t.co/L2FpgBkBxG https://t.co/Cu37DGn7Xu",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/L2FpgBkBxG",
+            "expanded_url": "http://bit.ly/1Xb7QCT",
+            "display_url": "bit.ly/1Xb7QCT",
+            "indices": [
+              43,
+              66
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 717288236268326900,
+            "id_str": "717288236268326912",
+            "indices": [
+              67,
+              90
+            ],
+            "media_url": "http://pbs.twimg.com/media/CfRR2bxXEAAif5F.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CfRR2bxXEAAif5F.jpg",
+            "url": "https://t.co/Cu37DGn7Xu",
+            "display_url": "pic.twitter.com/Cu37DGn7Xu",
+            "expanded_url": "http://twitter.com/bibliotecnica/status/717288236331171841/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 35,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 36,
+                "h": 36,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 347,
+                "h": 36,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 347,
+                "h": 36,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 717288236268326900,
+            "id_str": "717288236268326912",
+            "indices": [
+              67,
+              90
+            ],
+            "media_url": "http://pbs.twimg.com/media/CfRR2bxXEAAif5F.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CfRR2bxXEAAif5F.jpg",
+            "url": "https://t.co/Cu37DGn7Xu",
+            "display_url": "pic.twitter.com/Cu37DGn7Xu",
+            "expanded_url": "http://twitter.com/bibliotecnica/status/717288236331171841/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 35,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 36,
+                "h": 36,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 347,
+                "h": 36,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 347,
+                "h": 36,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "truncated": false,
+      "source": "<a href="http://bufferapp.com" rel="nofollow">Buffer</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1154165745/bibliotecnica_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1154165745/bibliotecnica_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  }
+]
+
+
+HTTP/1.1 200 OK
+
+x-frame-options:
+    SAMEORIGIN
+x-rate-limit-remaining:
+    176
+last-modified:
+    Tue, 05 Apr 2016 10:27:11 GMT
+status:
+    200 OK
+Content-Length:
+    2730
+x-response-time:
+    63
+Connection:
+    keep-alive
+x-transaction:
+    0834a34e583ad7c9
+Server:
+    tsa_b
+pragma:
+    no-cache
+cache-control:
+    no-cache, no-store, must-revalidate, pre-check=0, post-check=0
+x-connection-hash:
+    67b7d907378ba038230d51994a2b7020
+x-xss-protection:
+    1; mode=block
+x-content-type-options:
+    nosniff
+x-rate-limit-limit:
+    180
+expires:
+    Tue, 31 Mar 1981 05:00:00 GMT
+Date:
+    Tue, 05 Apr 2016 10:27:11 GMT
+set-cookie:
+    lang=es; Path=/
+set-cookie:
+    guest_id=v1%3A145985203096684235; Domain=.twitter.com; Path=/; Expires=Thu, 05-Apr-2018 10:27:11 UTC
+x-rate-limit-reset:
+    1459852791
+content-disposition:
+    attachment; filename=json.json
+x-twitter-response-tags:
+    BouncerCompliant
+strict-transport-security:
+    max-age=631138519
+x-access-level:
+    read-write-directmessages
+Content-Type:
+    application/json;charset=utf-8
+
+
+[
+  {
+    "id": 14375294,
+    "id_str": "14375294",
+    "name": "John Arundel",
+    "screen_name": "bitfield",
+    "location": "Cornwall",
+    "description": "Helps with sysadmin, devops, Puppet & Chef. Automates stuff for you, because you haven't got time. Ally.",
+    "url": "http://t.co/St02BRS9rN",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/St02BRS9rN",
+            "expanded_url": "http://bitfieldconsulting.com/",
+            "display_url": "bitfieldconsulting.com",
+            "indices": [
+              0,
+              22
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 75683,
+    "friends_count": 77246,
+    "listed_count": 1355,
+    "created_at": "Sun Apr 13 14:37:00 +0000 2008",
+    "favourites_count": 232,
+    "utc_offset": 3600,
+    "time_zone": "London",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4902,
+    "lang": "en",
+    "status": {
+      "created_at": "Tue Apr 05 09:19:58 +0000 2016",
+      "id": 717280608729309200,
+      "id_str": "717280608729309184",
+      "text": "Well, this is awkward https://t.co/YIRWOe6fZO",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/YIRWOe6fZO",
+            "expanded_url": "https://twitter.com/Mythic_Beasts/status/717274117783863296",
+            "display_url": "twitter.com/Mythic_Beasts/…",
+            "indices": [
+              22,
+              45
+            ]
+          }
+        ]
+      },
+      "truncated": false,
+      "source": "<a href="http://tapbots.com/tweetbot" rel="nofollow">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 717274117783863300,
+      "quoted_status_id_str": "717274117783863296",
+      "is_quote_status": true,
+      "retweet_count": 20,
+      "favorite_count": 15,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "000203",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/56417743/bitfield-logo.png",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/56417743/bitfield-logo.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/2550451333/upr558w4gb7mdgopk0af_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2550451333/upr558w4gb7mdgopk0af_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/14375294/1398508041",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  }
+]
+
+
+HTTP/1.1 200 OK
+
+x-frame-options:
+    SAMEORIGIN
+x-rate-limit-remaining:
+    175
+last-modified:
+    Tue, 05 Apr 2016 10:27:37 GMT
+status:
+    200 OK
+Content-Length:
+    4567
+x-response-time:
+    37
+Connection:
+    keep-alive
+x-transaction:
+    b76a31fd12d01aae
+Server:
+    tsa_b
+pragma:
+    no-cache
+cache-control:
+    no-cache, no-store, must-revalidate, pre-check=0, post-check=0
+x-connection-hash:
+    658c4b5c5578c98f0e727d0836ca633a
+x-xss-protection:
+    1; mode=block
+x-content-type-options:
+    nosniff
+x-rate-limit-limit:
+    180
+expires:
+    Tue, 31 Mar 1981 05:00:00 GMT
+Date:
+    Tue, 05 Apr 2016 10:27:37 GMT
+set-cookie:
+    lang=es; Path=/
+set-cookie:
+    guest_id=v1%3A145985205794356051; Domain=.twitter.com; Path=/; Expires=Thu, 05-Apr-2018 10:27:37 UTC
+x-rate-limit-reset:
+    1459852791
+content-disposition:
+    attachment; filename=json.json
+x-twitter-response-tags:
+    BouncerCompliant
+strict-transport-security:
+    max-age=631138519
+x-access-level:
+    read-write-directmessages
+Content-Type:
+    application/json;charset=utf-8
+
+
+[
+  {
+    "id": 3341697257,
+    "id_str": "3341697257",
+    "name": "CEDI_SALAMANCA",
+    "screen_name": "CEDI_Salamanca",
+    "location": "",
+    "description": "Congreso Español De Informática. Marco de encuentro para profesionales dedicados a la investigación, desarrollo, innovación y enseñanza universitaria.",
+    "url": "https://t.co/CECcXhFhNj",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/CECcXhFhNj",
+            "expanded_url": "http://www.congresocedi.es/",
+            "display_url": "congresocedi.es",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 226,
+    "friends_count": 902,
+    "listed_count": 3,
+    "created_at": "Mon Jun 22 16:51:28 +0000 2015",
+    "favourites_count": 14,
+    "utc_offset": -25200,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 16,
+    "lang": "es",
+    "status": {
+      "created_at": "Tue Mar 22 09:01:39 +0000 2016",
+      "id": 712202569653813200,
+      "id_str": "712202569653813248",
+      "text": "RT @ConfInteraccion: 2CFP XVII International Conference on Human Computer Interaction #Interaccion2016 https://t.co/nTT0cHyAhu https://t.co…",
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Interaccion2016",
+            "indices": [
+              86,
+              102
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ConfInteraccion",
+            "name": "Interaccion 2016",
+            "id": 4502840056,
+            "id_str": "4502840056",
+            "indices": [
+              3,
+              19
+            ]
+          },
+          {
+            "screen_name": "AIPOes",
+            "name": "AIPO España",
+            "id": 1023881922,
+            "id_str": "1023881922",
+            "indices": [
+              139,
+              140
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/nTT0cHyAhu",
+            "expanded_url": "http://interaccion2016.usal.es/",
+            "display_url": "interaccion2016.usal.es",
+            "indices": [
+              103,
+              126
+            ]
+          },
+          {
+            "url": "https://t.co/CXGa4ud0zc",
+            "expanded_url": "http://agora.grial.eu/interaccion2016/files/2016/03/CfP-Interaccion-2016-Second-Call.pdf",
+            "display_url": "agora.grial.eu/interaccion201…",
+            "indices": [
+              139,
+              140
+            ]
+          }
+        ]
+      },
+      "truncated": false,
+      "source": "<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Mar 21 18:49:09 +0000 2016",
+        "id": 711988030056353800,
+        "id_str": "711988030056353793",
+        "text": "2CFP XVII International Conference on Human Computer Interaction #Interaccion2016 https://t.co/nTT0cHyAhu https://t.co/CXGa4ud0zc @AIPOes",
+        "entities": {
+          "hashtags": [
+            {
+              "text": "Interaccion2016",
+              "indices": [
+                65,
+                81
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "AIPOes",
+              "name": "AIPO España",
+              "id": 1023881922,
+              "id_str": "1023881922",
+              "indices": [
+                130,
+                137
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/nTT0cHyAhu",
+              "expanded_url": "http://interaccion2016.usal.es/",
+              "display_url": "interaccion2016.usal.es",
+              "indices": [
+                82,
+                105
+              ]
+            },
+            {
+              "url": "https://t.co/CXGa4ud0zc",
+              "expanded_url": "http://agora.grial.eu/interaccion2016/files/2016/03/CfP-Interaccion-2016-Second-Call.pdf",
+              "display_url": "agora.grial.eu/interaccion201…",
+              "indices": [
+                106,
+                129
+              ]
+            }
+          ]
+        },
+        "truncated": false,
+        "source": "<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 6,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "fr"
+      },
+      "is_quote_status": false,
+      "retweet_count": 6,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "fr"
+    },
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/621695413494652928/0pkjU2D5_normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/621695413494652928/0pkjU2D5_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3341697257/1455723915",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false
+  }
+]

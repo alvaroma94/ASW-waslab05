@@ -1,0 +1,418 @@
+HTTP/1.1 200 OK
+
+x-frame-options:
+    SAMEORIGIN
+x-rate-limit-remaining:
+    10
+last-modified:
+    Tue, 05 Apr 2016 10:42:56 GMT
+status:
+    200 OK
+Content-Length:
+    7695
+x-response-time:
+    13
+Connection:
+    keep-alive
+x-transaction:
+    3b539f64596a89b2
+Server:
+    tsa_b
+pragma:
+    no-cache
+cache-control:
+    no-cache, no-store, must-revalidate, pre-check=0, post-check=0
+x-connection-hash:
+    df772b96705a8601b01f939137eca00f
+x-xss-protection:
+    1; mode=block
+x-content-type-options:
+    nosniff
+x-rate-limit-limit:
+    15
+expires:
+    Tue, 31 Mar 1981 05:00:00 GMT
+Date:
+    Tue, 05 Apr 2016 10:42:56 GMT
+set-cookie:
+    lang=es; Path=/
+set-cookie:
+    guest_id=v1%3A145985297673644495; Domain=.twitter.com; Path=/; Expires=Thu, 05-Apr-2018 10:42:56 UTC
+x-rate-limit-reset:
+    1459853804
+content-disposition:
+    attachment; filename=json.json
+x-twitter-response-tags:
+    BouncerCompliant
+strict-transport-security:
+    max-age=631138519
+x-access-level:
+    read-write-directmessages
+Content-Type:
+    application/json;charset=utf-8
+
+
+[
+  {
+    "trends": [
+      {
+        "name": "#FelizMartes",
+        "url": "http://twitter.com/search?q=%23FelizMartes",
+        "promoted_content": null,
+        "query": "%23FelizMartes",
+        "tweet_volume": 13866
+      },
+      {
+        "name": "#yomelevanto",
+        "url": "http://twitter.com/search?q=%23yomelevanto",
+        "promoted_content": null,
+        "query": "%23yomelevanto",
+        "tweet_volume": null
+      },
+      {
+        "name": "Hugo Chávez",
+        "url": "http://twitter.com/search?q=%22Hugo+Ch%C3%A1vez%22",
+        "promoted_content": null,
+        "query": "%22Hugo+Ch%C3%A1vez%22",
+        "tweet_volume": 25346
+      },
+      {
+        "name": "#TiemblaBlackstone",
+        "url": "http://twitter.com/search?q=%23TiemblaBlackstone",
+        "promoted_content": null,
+        "query": "%23TiemblaBlackstone",
+        "tweet_volume": null
+      },
+      {
+        "name": "#SageForum16",
+        "url": "http://twitter.com/search?q=%23SageForum16",
+        "promoted_content": null,
+        "query": "%23SageForum16",
+        "tweet_volume": null
+      },
+      {
+        "name": "#DerogarLOMCEYa",
+        "url": "http://twitter.com/search?q=%23DerogarLOMCEYa",
+        "promoted_content": null,
+        "query": "%23DerogarLOMCEYa",
+        "tweet_volume": null
+      },
+      {
+        "name": "Pau Donés",
+        "url": "http://twitter.com/search?q=%22Pau+Don%C3%A9s%22",
+        "promoted_content": null,
+        "query": "%22Pau+Don%C3%A9s%22",
+        "tweet_volume": null
+      },
+      {
+        "name": "Kurt Cobain",
+        "url": "http://twitter.com/search?q=%22Kurt+Cobain%22",
+        "promoted_content": null,
+        "query": "%22Kurt+Cobain%22",
+        "tweet_volume": 19053
+      },
+      {
+        "name": "BBVA y Sabadell",
+        "url": "http://twitter.com/search?q=%22BBVA+y+Sabadell%22",
+        "promoted_content": null,
+        "query": "%22BBVA+y+Sabadell%22",
+        "tweet_volume": null
+      },
+      {
+        "name": "Minzy",
+        "url": "http://twitter.com/search?q=Minzy",
+        "promoted_content": null,
+        "query": "Minzy",
+        "tweet_volume": 228658
+      },
+      {
+        "name": "Marine Le Pen",
+        "url": "http://twitter.com/search?q=%22Marine+Le+Pen%22",
+        "promoted_content": null,
+        "query": "%22Marine+Le+Pen%22",
+        "tweet_volume": 10570
+      },
+      {
+        "name": "NCAA",
+        "url": "http://twitter.com/search?q=NCAA",
+        "promoted_content": null,
+        "query": "NCAA",
+        "tweet_volume": 149188
+      },
+      {
+        "name": "Pedralbes",
+        "url": "http://twitter.com/search?q=Pedralbes",
+        "promoted_content": null,
+        "query": "Pedralbes",
+        "tweet_volume": null
+      },
+      {
+        "name": "Dreambeach",
+        "url": "http://twitter.com/search?q=Dreambeach",
+        "promoted_content": null,
+        "query": "Dreambeach",
+        "tweet_volume": null
+      },
+      {
+        "name": "Iberdrola",
+        "url": "http://twitter.com/search?q=Iberdrola",
+        "promoted_content": null,
+        "query": "Iberdrola",
+        "tweet_volume": null
+      },
+      {
+        "name": "Ximo Puig",
+        "url": "http://twitter.com/search?q=%22Ximo+Puig%22",
+        "promoted_content": null,
+        "query": "%22Ximo+Puig%22",
+        "tweet_volume": null
+      },
+      {
+        "name": "Barranco Seco",
+        "url": "http://twitter.com/search?q=%22Barranco+Seco%22",
+        "promoted_content": null,
+        "query": "%22Barranco+Seco%22",
+        "tweet_volume": null
+      },
+      {
+        "name": "Olivares",
+        "url": "http://twitter.com/search?q=Olivares",
+        "promoted_content": null,
+        "query": "Olivares",
+        "tweet_volume": null
+      },
+      {
+        "name": "Boadella",
+        "url": "http://twitter.com/search?q=Boadella",
+        "promoted_content": null,
+        "query": "Boadella",
+        "tweet_volume": null
+      },
+      {
+        "name": "Kris Jenkins",
+        "url": "http://twitter.com/search?q=%22Kris+Jenkins%22",
+        "promoted_content": null,
+        "query": "%22Kris+Jenkins%22",
+        "tweet_volume": 91496
+      },
+      {
+        "name": "Amazon Vine",
+        "url": "http://twitter.com/search?q=%22Amazon+Vine%22",
+        "promoted_content": null,
+        "query": "%22Amazon+Vine%22",
+        "tweet_volume": null
+      },
+      {
+        "name": "Embajada",
+        "url": "http://twitter.com/search?q=Embajada",
+        "promoted_content": null,
+        "query": "Embajada",
+        "tweet_volume": null
+      },
+      {
+        "name": "#CulturaInteligente",
+        "url": "http://twitter.com/search?q=%23CulturaInteligente",
+        "promoted_content": null,
+        "query": "%23CulturaInteligente",
+        "tweet_volume": null
+      },
+      {
+        "name": "#LACAFETERAcrisisdemocrática",
+        "url": "http://twitter.com/search?q=%23LACAFETERAcrisisdemocr%C3%A1tica",
+        "promoted_content": null,
+        "query": "%23LACAFETERAcrisisdemocr%C3%A1tica",
+        "tweet_volume": null
+      },
+      {
+        "name": "#YoSalvoMdT",
+        "url": "http://twitter.com/search?q=%23YoSalvoMdT",
+        "promoted_content": null,
+        "query": "%23YoSalvoMdT",
+        "tweet_volume": null
+      },
+      {
+        "name": "#síterenta",
+        "url": "http://twitter.com/search?q=%23s%C3%ADterenta",
+        "promoted_content": null,
+        "query": "%23s%C3%ADterenta",
+        "tweet_volume": null
+      },
+      {
+        "name": "#RigorEnPrensa",
+        "url": "http://twitter.com/search?q=%23RigorEnPrensa",
+        "promoted_content": null,
+        "query": "%23RigorEnPrensa",
+        "tweet_volume": null
+      },
+      {
+        "name": "#FiestaDelCine",
+        "url": "http://twitter.com/search?q=%23FiestaDelCine",
+        "promoted_content": null,
+        "query": "%23FiestaDelCine",
+        "tweet_volume": null
+      },
+      {
+        "name": "#SorayaAR",
+        "url": "http://twitter.com/search?q=%23SorayaAR",
+        "promoted_content": null,
+        "query": "%23SorayaAR",
+        "tweet_volume": null
+      },
+      {
+        "name": "#107SinGobiernoM4",
+        "url": "http://twitter.com/search?q=%23107SinGobiernoM4",
+        "promoted_content": null,
+        "query": "%23107SinGobiernoM4",
+        "tweet_volume": null
+      },
+      {
+        "name": "#MarotoEP",
+        "url": "http://twitter.com/search?q=%23MarotoEP",
+        "promoted_content": null,
+        "query": "%23MarotoEP",
+        "tweet_volume": null
+      },
+      {
+        "name": "#SeminarioEficacia",
+        "url": "http://twitter.com/search?q=%23SeminarioEficacia",
+        "promoted_content": null,
+        "query": "%23SeminarioEficacia",
+        "tweet_volume": null
+      },
+      {
+        "name": "#2EED_AMETIC",
+        "url": "http://twitter.com/search?q=%232EED_AMETIC",
+        "promoted_content": null,
+        "query": "%232EED_AMETIC",
+        "tweet_volume": null
+      },
+      {
+        "name": "#TransformacionDigital",
+        "url": "http://twitter.com/search?q=%23TransformacionDigital",
+        "promoted_content": null,
+        "query": "%23TransformacionDigital",
+        "tweet_volume": null
+      },
+      {
+        "name": "#GregoryPeck",
+        "url": "http://twitter.com/search?q=%23GregoryPeck",
+        "promoted_content": null,
+        "query": "%23GregoryPeck",
+        "tweet_volume": null
+      },
+      {
+        "name": "#NuncaDejesDeCreer",
+        "url": "http://twitter.com/search?q=%23NuncaDejesDeCreer",
+        "promoted_content": null,
+        "query": "%23NuncaDejesDeCreer",
+        "tweet_volume": null
+      },
+      {
+        "name": "#UCIEstafaConIRPH",
+        "url": "http://twitter.com/search?q=%23UCIEstafaConIRPH",
+        "promoted_content": null,
+        "query": "%23UCIEstafaConIRPH",
+        "tweet_volume": null
+      },
+      {
+        "name": "#donasonrisas",
+        "url": "http://twitter.com/search?q=%23donasonrisas",
+        "promoted_content": null,
+        "query": "%23donasonrisas",
+        "tweet_volume": null
+      },
+      {
+        "name": "#MartesDeTuitsAMano",
+        "url": "http://twitter.com/search?q=%23MartesDeTuitsAMano",
+        "promoted_content": null,
+        "query": "%23MartesDeTuitsAMano",
+        "tweet_volume": null
+      },
+      {
+        "name": "#MultinacionalesMandan",
+        "url": "http://twitter.com/search?q=%23MultinacionalesMandan",
+        "promoted_content": null,
+        "query": "%23MultinacionalesMandan",
+        "tweet_volume": null
+      },
+      {
+        "name": "#SalónUS",
+        "url": "http://twitter.com/search?q=%23Sal%C3%B3nUS",
+        "promoted_content": null,
+        "query": "%23Sal%C3%B3nUS",
+        "tweet_volume": null
+      },
+      {
+        "name": "#salidaUKdeUE",
+        "url": "http://twitter.com/search?q=%23salidaUKdeUE",
+        "promoted_content": null,
+        "query": "%23salidaUKdeUE",
+        "tweet_volume": null
+      },
+      {
+        "name": "#DesayunosEP",
+        "url": "http://twitter.com/search?q=%23DesayunosEP",
+        "promoted_content": null,
+        "query": "%23DesayunosEP",
+        "tweet_volume": null
+      },
+      {
+        "name": "#preguntaRadioterapia",
+        "url": "http://twitter.com/search?q=%23preguntaRadioterapia",
+        "promoted_content": null,
+        "query": "%23preguntaRadioterapia",
+        "tweet_volume": null
+      },
+      {
+        "name": "#VCTE55",
+        "url": "http://twitter.com/search?q=%23VCTE55",
+        "promoted_content": null,
+        "query": "%23VCTE55",
+        "tweet_volume": null
+      },
+      {
+        "name": "#Hispanos",
+        "url": "http://twitter.com/search?q=%23Hispanos",
+        "promoted_content": null,
+        "query": "%23Hispanos",
+        "tweet_volume": null
+      },
+      {
+        "name": "#Foodture",
+        "url": "http://twitter.com/search?q=%23Foodture",
+        "promoted_content": null,
+        "query": "%23Foodture",
+        "tweet_volume": null
+      },
+      {
+        "name": "#180Grados",
+        "url": "http://twitter.com/search?q=%23180Grados",
+        "promoted_content": null,
+        "query": "%23180Grados",
+        "tweet_volume": null
+      },
+      {
+        "name": "#AndaYaQueRisas",
+        "url": "http://twitter.com/search?q=%23AndaYaQueRisas",
+        "promoted_content": null,
+        "query": "%23AndaYaQueRisas",
+        "tweet_volume": null
+      },
+      {
+        "name": "#Fomento",
+        "url": "http://twitter.com/search?q=%23Fomento",
+        "promoted_content": null,
+        "query": "%23Fomento",
+        "tweet_volume": null
+      }
+    ],
+    "as_of": "2016-04-05T10:42:56Z",
+    "created_at": "2016-04-05T10:37:19Z",
+    "locations": [
+      {
+        "name": "Barcelona",
+        "woeid": 753692
+      }
+    ]
+  }
+]

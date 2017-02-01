@@ -1,0 +1,67 @@
+HTTP/1.1 200 OK
+
+x-frame-options:
+    SAMEORIGIN
+x-rate-limit-remaining:
+    176
+last-modified:
+    Tue, 05 Apr 2016 10:16:41 GMT
+status:
+    200 OK
+Content-Length:
+    283
+x-response-time:
+    382
+Connection:
+    keep-alive
+x-transaction:
+    3dbb49e0c3773737
+Server:
+    tsa_b
+pragma:
+    no-cache
+cache-control:
+    no-cache, no-store, must-revalidate, pre-check=0, post-check=0
+x-connection-hash:
+    fd93b7d440e6baaa024337475544ffb6
+x-xss-protection:
+    1; mode=block
+x-content-type-options:
+    nosniff
+x-rate-limit-limit:
+    180
+expires:
+    Tue, 31 Mar 1981 05:00:00 GMT
+Date:
+    Tue, 05 Apr 2016 10:16:41 GMT
+set-cookie:
+    lang=es; Path=/
+set-cookie:
+    guest_id=v1%3A145985140147105241; Domain=.twitter.com; Path=/; Expires=Thu, 05-Apr-2018 10:16:41 UTC
+x-rate-limit-reset:
+    1459852120
+content-disposition:
+    attachment; filename=json.json
+x-twitter-response-tags:
+    BouncerCompliant
+strict-transport-security:
+    max-age=631138519
+x-access-level:
+    read-write-directmessages
+Content-Type:
+    application/json;charset=utf-8
+
+
+{
+  "statuses": [],
+  "search_metadata": {
+    "completed_in": 0.369,
+    "max_id": 717294794112774100,
+    "max_id_str": "717294794112774144",
+    "query": "Panama",
+    "refresh_url": "?since_id=717294794112774144&q=Panama&lang=English&result_type=recent&include_entities=1",
+    "count": 20,
+    "since_id": 0,
+    "since_id_str": "0"
+  }
+}
